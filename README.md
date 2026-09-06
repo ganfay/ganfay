@@ -1,7 +1,6 @@
 # Maksym Biesiedin
 
 Delta Engineering student at **KSE** · Go Backend Developer  
-Focused on distributed systems, event-driven architecture, and clean code.
 
 ---
 
