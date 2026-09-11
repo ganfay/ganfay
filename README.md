@@ -21,7 +21,7 @@ Delta Engineering student at **KSE** · Go Backend Developer
   <a href="https://linkedin.com/in/maksym-biesiedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/твій_юзернейм">
+  <a href="https://t.me/ganfay">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:maksym.biesiedin.26@kse.org.ua">
