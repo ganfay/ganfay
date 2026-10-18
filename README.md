@@ -19,11 +19,11 @@
 
 ### 🚀 Projects
 
-- ⚡ **[SplitCore](https://github.com/ganfay/split-core)** `v1.2.0` `Production`  
+- ⚡ **[SplitCore](https://github.com/ganfay/split-core)** `v1.2.0`
   High-performance Telegram expense engine.  
   *Tech:* `Go` · `Clean Architecture` · `gRPC` · `RabbitMQ` · `Redis FSM` · `pgxpool` · `Azure`
 
-- 🤖 **[work-agent-bot](https://github.com/ganfay/work-agent-bot)** `v1.0.0` `Active`  
+- 🤖 **[work-agent-bot](https://github.com/ganfay/work-agent-bot)** `v1.0.0`  
   Autonomous polyglot job bidder with pgvector semantic validation and 4-agent LLM pipeline.  
   *Tech:* `Go` · `Python 3.12` · `pgvector RAG` · `Gemini API` · `RabbitMQ` · `telebot.v4` · `Docker`
 
